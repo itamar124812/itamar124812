@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itamar124812
+- 👋 Hi, I’m Itamar Cohen.
 - 👀 I’m interested in software develpment (Mainly backend languages:c#,python,java,cpp and operator system)
 - 🌱 I’m currently learning my third year for Computer Science degree on jct
 - 💞️ I'm looking to collaborate on projects that combine one of the following: <br>
