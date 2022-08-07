@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Itamar Cohen.
 - 👀 I'm interested in software development. 
 - I have knowledge of the following languages: C#, Java, Python, C && C++,rust, Bash, Dart, Sql.
-- 🌱 I’m currently learning my third year for Computer Science degree on <a href=https://www.jct.ac.il/en>Jerusalem College of Technology</a>.
+- 🌱 I have a bachelor's degree in computer science from <a href=https://www.jct.ac.il/en>Jerusalem College of Technology</a>.
 - 💞️ I'm looking to collaborate on projects that combine one of the following: 
    Networking Security,</br>
    data science,</br>
