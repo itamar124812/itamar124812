@@ -10,6 +10,8 @@
    backend development for websites and applications</br>and devops.</br>
 - 📫 How to reach me: itamar124812@gmail.com </br>
    I created and co-created the following projects:</br>
+   <h2><a href=https://github.com/itamar124812/Email-Encryption> Email Encryption: </a></h2>
+    An outlook add-in to encrypt and verify e-mail messages (end to end encryption like TLS).</br>
    <h2><a href=https://github.com/omcoch/SpaceExplorer> Space Explorer: </a></h2>
     Desktop apllication whice collect data from servel web apis(like: Nasa api,Tle api,Imagga and more) and present them all togher using WPF and .NET framework.</br>
    <h2><a href=https://github.com/itamar124812/MiniProjectSoftwareEngineering> MiniProjectSoftwareEngineering:</a></h2>
