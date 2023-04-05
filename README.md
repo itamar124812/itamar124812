@@ -14,7 +14,7 @@
     An outlook add-in to encrypt and verify e-mail messages (end to end encryption like TLS).</br>
    <h2><a href=https://github.com/omcoch/SpaceExplorer> Space Explorer: </a></h2>
     Desktop apllication whice collect data from servel web apis(like: Nasa api,Tle api,Imagga and more) and present them all togher using WPF and .NET framework.</br>
-    <h2> Chat App: <a href=https://github.com/MayaBarkann/ChatApp-Server>Server Side</a>, <a href=[https://github.com/MayaBarkann/ChatApp-Server](https://github.com/MayaBarkann/ChatApp-Client)>Client Side</a>. </h2>
+    <h2> Chat App: <a href=https://github.com/MayaBarkann/ChatApp-Server>Server Side</a>, <a href=https://github.com/MayaBarkann/ChatApp-Client>Client Side</a>. </h2>
     Web application for public and personal chat. The server side is built using Spring boot and the client side using React js.</br>
    <h2><a href=https://github.com/itamar124812/MiniProjectSoftwareEngineering> MiniProjectSoftwareEngineering:</a></h2>
    An application for creating images and 3D graphics using a phong model was written using Java .</br>
